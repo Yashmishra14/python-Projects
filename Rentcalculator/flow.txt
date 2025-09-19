@@ -1,0 +1,8 @@
+Total rent
+total  food ordered from snacking
+Electricity units 
+charger per units
+person living in room/flat
+
+output:
+Total amount You have to pay is.
