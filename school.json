@@ -1,0 +1,20 @@
+{
+    "students": [],
+    "teachers": [
+        {
+            "teacher_id": "t1",
+            "name": "shubham",
+            "subject": "math"
+        }
+    ],
+    "courses": [
+        {
+            "course_id": "MBA",
+            "name": "MBA@",
+            "teacher_id": null,
+            "students": [
+                "s1"
+            ]
+        }
+    ]
+}
